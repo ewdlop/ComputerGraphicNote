@@ -29,3 +29,7 @@ https://www.getpaint.net/
 https://arxiv.org/pdf/1502.03809
 
 https://arxiv.org/pdf/1502.03808
+
+# Stable-Diffusion-Webui
+
+https://github.com/AUTOMATIC1111/stable-diffusion-webui
