@@ -1,6 +1,6 @@
 # ComputerGraphicNote
 
-I missed pen, pencil, and crayon sometimes.
+I sometimes missed my pen, pencil, and crayon.
 
 # Paint
 
@@ -12,9 +12,9 @@ my high school teacher showed the students the following:
 
 # Paint.Net
 
-https://www.getpaint.net/
+<https://www.getpaint.net/>
 
-# Photoshop
+# Adobe Photoshop
 
 [Adobe Cloud Suite](https://www.adobe.com/creativecloud/business/teams/photoshop.html?gclid=Cj0KCQiAr7C6BhDRARIsAOUKifhDt9v2ReND9Z_awzM01u9-Hnwcb9PE4ieiTbSaWXDtEc41_EfDvKsaApaHEALw_wcB&sdid=HVQ7WWTG&mv=search&mv2=paidsearch&ef_id=Cj0KCQiAr7C6BhDRARIsAOUKifhDt9v2ReND9Z_awzM01u9-Hnwcb9PE4ieiTbSaWXDtEc41_EfDvKsaApaHEALw_wcB:G:s&s_kwcid=AL!3085!3!692467762466!e!!g!!adobe%20photoshop!21070408252!157385366577&gad_source=1)
 
@@ -43,3 +43,5 @@ https://www.getpaint.net/
 <https://www.pbrt.org/>
 
 <https://www.amazon.com/GPU-Gems-Programming-Techniques-Real-Time/dp/0321228324>
+
+<https://learnopengl.com/>
