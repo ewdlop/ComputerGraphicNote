@@ -26,14 +26,20 @@ https://www.getpaint.net/
 
 # Interstellar
 
-https://arxiv.org/pdf/1502.03809
+<https://arxiv.org/pdf/1502.03809>
 
-https://arxiv.org/pdf/1502.03808
+<https://arxiv.org/pdf/1502.03808>
 
 # Stable-Diffusion-Webui
 
-https://github.com/AUTOMATIC1111/stable-diffusion-webui
+<https://github.com/AUTOMATIC1111/stable-diffusion-webui>
 
 # ClipChamp
 
-https://www.microsoft.com/en-us/microsoft-365/clipchamp
+<https://www.microsoft.com/en-us/microsoft-365/clipchamp>
+
+# Books
+
+<https://www.pbrt.org/>
+
+<https://www.amazon.com/GPU-Gems-Programming-Techniques-Real-Time/dp/0321228324>
