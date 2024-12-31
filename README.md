@@ -45,3 +45,7 @@ my high school teacher showed the students the following:
 <https://www.amazon.com/GPU-Gems-Programming-Techniques-Real-Time/dp/0321228324>
 
 <https://learnopengl.com/>
+
+# Bitmap
+
+.bmp
